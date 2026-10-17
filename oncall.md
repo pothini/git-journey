@@ -1,1 +1,1 @@
-Primary oncall rotates every Monda
+Primary oncall rotates every Monday
